@@ -1,0 +1,53 @@
+{
+ "sections": [
+  {
+   "id": "14c1bbe8-3a74-83b9-8b8e-cfa6ff48118c",
+   "title": "Healthy Living",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Healthy-Living-14c1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7e816db6-fcc4-8544-4ad0-dbf33d403f91",
+   "title": "Positive Impacts on Health",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Positive-Impacts-on-Health-7e81.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "79053dce-23df-ae05-236e-2dd6f0d4fe11",
+   "title": "Negative Impacts on Health",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Negative-Impacts-on-Health-7905.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f4cd292a-4baf-92fa-5a27-7663e965e945",
+   "title": "Quiz",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Quiz-f4cd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false
+}

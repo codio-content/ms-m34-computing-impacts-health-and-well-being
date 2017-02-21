@@ -1,0 +1,2 @@
+Humans interact with technology in all sorts of ways and in all areas of their life. It makes sense, then, that technology can impact our lives and our health. Many devices and **Computational Artifacts**, which are programs, apps, simulations, etc. that run on devices, are created specifically for improving the health of users. There are other ways in which technology hurts our health, and in this lesson we will explore both.
+

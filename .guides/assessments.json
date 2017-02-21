@@ -1,0 +1,27 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3571349195",
+  "source": {
+   "name": "Health Impact",
+   "showName": false,
+   "instructions": "Select whether the technology in each situation is a positive or negative impact on the health of the user.",
+   "points": "1",
+   "showValues": true,
+   "text": "Remote devices monitor the heartbeat of a patient and send an alert when it is not regular. <<<Positive>>>\n\nAn office worker sits in the same spot all day long and does not get up to move or walk around very often. <<<Negative>>>\n\n",
+   "tokens": {
+    "blank": [
+     "Positive",
+     "Negative"
+    ],
+    "text": [
+     "Remote devices monitor the heartbeat of a patient and send an alert when it is not regular. ",
+     0,
+     "\n\nAn office worker sits in the same spot all day long and does not get up to move or walk around very often. ",
+     0,
+     "\n\n"
+    ]
+   }
+  }
+ }
+]
